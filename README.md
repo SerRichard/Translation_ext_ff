@@ -1,2 +1,4 @@
 # Translation_ext_ff
-A web extension for the firefox browser.
+
+A firefox browser extension.
+This is an example extension written in JavaScript for the firefox browser.
